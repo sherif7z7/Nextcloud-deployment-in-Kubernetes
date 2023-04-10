@@ -1,7 +1,9 @@
 # Nextcloud-deployment-in-Kubernetes
 next cloud app using postgrsql and redis
+
 Requirements
-install docker amd minikube 
+
+install docker and minikube 
 
 Deployment
 
