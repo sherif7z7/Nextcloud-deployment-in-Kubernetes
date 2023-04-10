@@ -9,7 +9,7 @@ Deployment
 
 $ kubectl apply -f pvc.yaml
 
-$ kubectl apply -f maria.yaml
+$ kubectl apply -f sql.yaml
 
 $ kubectl apply -f redis.yaml
 
